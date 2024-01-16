@@ -1,8 +1,4 @@
-# 3options
-This is the repository where I am storing the data and code used to generate behavioural analyses for the publication:   
->__The functional form of value normalization in human reinforcement learning__   
-Sophie Bavard, Stefano Palminteri   
-[https://elifesciences.org/articles/83891](https://elifesciences.org/articles/83891)
+# intrinsic-reward
 
 ## Data   
 The columns are ordered as follows:    
